@@ -1,4 +1,4 @@
-# ![Banner](link_to_your_banner_image)
+# ![Banner](https://drive.google.com/uc?export=view&id=1B0S4xI3HdOiuDycC_fQCppL6Q_y-pYCh)
 
 <h1 align="center">
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
@@ -23,24 +23,24 @@
 ## Skills & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" height="60">
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" height="60">
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" height="60">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="60">
-  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=MATLAB&logoColor=white" height="60">
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" height="60">
-  <img src="https://img.shields.io/badge/-Solidworks-EF172A?style=for-the-badge&logo=SolidWorks&logoColor=white" height="60">
-  <img src="https://img.shields.io/badge/-Proteus-4CAF50?style=for-the-badge&logo=Proteus&logoColor=white" height="60">
-  <img src="https://img.shields.io/badge/-Altium-232F3E?style=for-the-badge&logo=Altium-Designer&logoColor=white" height="60">
-  <img src="https://img.shields.io/badge/-EasyEDA-00896C?style=for-the-badge&logo=EasyEDA&logoColor=white" height="60">
-  <img src="https://img.shields.io/badge/-Multisim-007ACC?style=for-the-badge&logo=NI&logoColor=white" height="60">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" height="60" style="border-radius: 50%">
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" height="60" style="border-radius: 50%">
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" height="60" style="border-radius: 50%">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="60" style="border-radius: 50%">
+  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=MATLAB&logoColor=white" height="60" style="border-radius: 50%">
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" height="60" style="border-radius: 50%">
+  <img src="https://img.shields.io/badge/-Solidworks-EF172A?style=for-the-badge&logo=SolidWorks&logoColor=white" height="60" style="border-radius: 50%">
+  <img src="https://img.shields.io/badge/-Proteus-4CAF50?style=for-the-badge&logo=Proteus&logoColor=white" height="60" style="border-radius: 50%">
+  <img src="https://img.shields.io/badge/-Altium-232F3E?style=for-the-badge&logo=Altium-Designer&logoColor=white" height="60" style="border-radius: 50%">
+  <img src="https://img.shields.io/badge/-EasyEDA-00896C?style=for-the-badge&logo=EasyEDA&logoColor=white" height="60" style="border-radius: 50%">
+  <img src="https://img.shields.io/badge/-Multisim-007ACC?style=for-the-badge&logo=NI&logoColor=white" height="60" style="border-radius: 50%">
 </p>
 
 ## Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-alfan-fuad-dzia-ul-haq-24857a217/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" height="60"></a>
-  <a href="https://www.instagram.com/alfanfuadz24/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" height="60"></a>
+  <a href="https://www.linkedin.com/in/muhammad-alfan-fuad-dzia-ul-haq-24857a217/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" height="60" style="border-radius: 50%"></a>
+  <a href="https://www.instagram.com/alfanfuadz24/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" height="60" style="border-radius: 50%"></a>
 </p>
 
 ## Projects
