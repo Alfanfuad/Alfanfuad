@@ -15,10 +15,7 @@
 
 - 🔭 I’m currently working on (Not Yet)
 - 🌱 I’m currently learning FPGA & Front End Program
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: alfanfuadz@gmail.com (Email), +62-896 5295 9661 (Contact Number)
 
 ## Skills & Tools
 
@@ -42,25 +39,6 @@
   <a href="https://www.linkedin.com/in/muhammad-alfan-fuad-dzia-ul-haq-24857a217/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" height="60" style="border-radius: 50%"></a>
   <a href="https://www.instagram.com/alfanfuadz24/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" height="60" style="border-radius: 50%"></a>
 </p>
-
-## Projects
-
-### [Project 1](link_ke_project_1)
-Deskripsi singkat tentang proyek ini.
-
-### [Project 2](link_ke_project_2)
-Deskripsi singkat tentang proyek ini.
-
-### [Project 3](link_ke_project_3)
-Deskripsi singkat tentang proyek ini.
-
-## Blog Posts
-
-- [The Future of Embedded Systems](https://example.com/the-future-of-embedded-systems)
-- [How to Improve Energy Efficiency in Vehicles](https://example.com/improve-energy-efficiency-vehicles)
-- [Top 10 Tools for Electrical Engineering Students](https://example.com/top-10-tools-electrical-engineering)
-- [Getting Started with MATLAB for Engineers](https://example.com/getting-started-matlab-engineers)
-- [Understanding G-Code for CNC Machines](https://example.com/understanding-g-code-cnc)
 
 ## GitHub Stats
 
